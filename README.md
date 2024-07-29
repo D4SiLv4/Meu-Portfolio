@@ -13,7 +13,7 @@ Estou em constante evolução profissional, buscando especialização em Seguran
 
 ## Objetivos 💡
 
--Busco oportunidades desafiadoras na área de Tecnologia da Informação onde possa aplicar e
+- Busco oportunidades desafiadoras na área de Tecnologia da Informação onde possa aplicar e
 expandir minhas habilidades em desenvolvimento de software, gestão de projetos e segurança da
 informação, contribuindo para o crescimento e inovação da empresa.
 
