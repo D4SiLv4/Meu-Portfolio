@@ -53,7 +53,7 @@ export const ProjectsSection = () => {
             key="python_project"
             name="Projeto de Automação com Python"
             description="Este projeto implementa uma shell reversa avançada com diversas funcionalidades, incluindo captura de tela, keylogging, monitoramento de processos, e integração com Discord para controle remoto e envio de notificações."
-            html_url="#"
+            html_url="https://github.com/D4SiLv4/R3verse-Sh3ll"
             languages={["Python"]}
           />
         </div>
